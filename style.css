@@ -1,0 +1,78 @@
+* {
+    text-align: center;
+
+    font-family: "Barlow", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+#name {
+    width: 320px;
+    height: 40px;
+
+}
+
+#n1 {
+    width: 90px;
+    height: 40px;
+
+}
+
+#n2 {
+    width: 90px;
+    height: 40px;
+
+}
+
+#n3 {
+    width: 90px;
+    height: 40px;
+
+}
+
+#n4 {
+    width: 90px;
+    height: 40px;
+
+}
+
+#res {
+    background-color: greenyellow;
+    width: 200px;
+    margin-left: 43%;
+    height: 80px;
+
+}
+#naoPassou{
+background-color: red;
+width: 200px;
+height: 50px;
+margin-left: 500px;
+}
+
+#Passou{
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    margin-left: 800px;
+margin-top: -66px;
+}
+button:hover {
+    transform: scale(1.25);
+    transition: 0.6s ease;
+}
+#naoPassou:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease;
+}
+#Passou:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease;
+}
+button:hover {
+    background-color: #45a049;}
+
+
+   
